@@ -1,1 +1,2 @@
-"hi"
+printing:
+"hi hello friends"
